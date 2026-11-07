@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294059991353",
+    "project_id": "alureportapp",
+    "storage_bucket": "alureportapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294059991353:android:57d0de56241b7171c2c8e8",
+        "android_client_info": {
+          "package_name": "com.example.alu_report_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294059991353-m4kttulpkjd86pnkake0q61hlveinsl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcb4SZPrP-gYqKHCbJ8nOT0YfAIIk9tbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294059991353-m4kttulpkjd86pnkake0q61hlveinsl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
